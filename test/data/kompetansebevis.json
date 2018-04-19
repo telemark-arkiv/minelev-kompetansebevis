@@ -1,0 +1,40 @@
+{
+  "header": "YFF4209 Yrkesfaglig fordypning Vg2",
+  "hours": 253,
+  "userId": "1607tops",
+  "name": "Thomas Topstad",
+  "classLevel": "VG2",
+  "utdanningsprogram": "Teknikk og industriell produksjon",
+  "data": [
+    {
+      "name": "Teknikk og industriell produksjon",
+      "maal": [
+        {
+          "name": "velge og bruke verneutstyr",
+          "oppgaver": "rutiner"
+        },
+        {
+          "name": "diskutere faglige løsninger med kollegaer",
+          "oppgaver": "Statusmøte"
+        },
+        {
+          "name": "velge komponenter og produkter for overflatebehandling ",
+          "oppgaver": "service"
+        },
+        {
+          "name": "behandle kunder i tråd med retningslinjer og gjøre rede for prinsippene",
+          "oppgaver": "service"
+        }
+      ]
+    },
+    {
+      "name": "Restaurant- og matfag",
+      "maal": [
+        {
+          "name": "planlegge, gjennomføre, vurdere og dokumentere tilberedning av mat på ulike typer serveringssteder",
+          "oppgaver": "sløye fisk"
+        }
+      ]
+    }
+  ]
+}

@@ -10,12 +10,12 @@ All API calls needs an Authorization header with valid jwt
 $ http GET https://kompetansebevis.service.io/kompetansebevis/docx/1234 'Authorization: Bearer <INSERT TOKEN>'
 ```
 
-### ```GET /agreements/:id```
+### ```GET /kompetansebevis/:format/:id```
 
-Get a specific agreement
+Get a specific kompetansebevis. Valid formats are `docx` and `json`
 
 ```bash
-$ http GET https://agreements.service.io/agreements/5ac770926ae9e948ebc0bb47 'Authorization: Bearer <INSERT TOKEN>'
+$ http GET https://kompetansebevis.service.io/kompetansebevis/docx/1234 'Authorization: Bearer <INSERT TOKEN>'
 ```
 
 ## Deployment - ZEIT/Now
